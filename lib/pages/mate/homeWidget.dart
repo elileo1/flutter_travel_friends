@@ -6,7 +6,6 @@ import 'package:travel_friend/common/GlobalConfig.dart';
 import 'package:travel_friend/common/TextResources.dart';
 import 'package:travel_friend/utils/timeUtil.dart';
 import 'package:travel_friend/widget/PhotoViewPager.dart';
-import 'package:flutter_webview_plugin/flutter_webview_plugin.dart';
 ///首页Item
 Widget buildMateItem(context, index, Topic topic) {
   return new InkWell(
